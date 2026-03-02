@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#L#",
+        "LGL",
+        "#L#"
+    ],
+    "key": {
+        "#": "minecraft:light_blue_concrete",
+        "L": "minecraft:lapis_lazuli",
+        "G": "minecraft:glow_ink_sac"
+    },
+    "result": {
+        "id": "box3:lab_screen",
+        "count": 4
+    }
+}
